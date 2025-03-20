@@ -1,5 +1,6 @@
 # Arduino Sevo Hand Controller
 ### Mechanical hand that plays ✊ ✋ ✌️
+### Thinkercad link: https://www.tinkercad.com/things/hmpNwzOvFJx-arduino-hand
 
 [Watch Video](https://github.com/user-attachments/assets/caac85df-0b74-40a7-a728-971e6fcde8e4)
 | Reality | Thinkercad |
